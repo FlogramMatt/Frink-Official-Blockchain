@@ -1,0 +1,11 @@
+/target
+**/*.rs.bk
+Cargo.lock
+
+src/falcon-20190918/Debug/
+
+src/falcon-20190918/.vs/FalconSignature/v16/
+
+src/falcon-20190918/.vs/falcon-20190918/v16/
+
+src/falcon-20190918/.vs/
